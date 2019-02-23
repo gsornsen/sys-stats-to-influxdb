@@ -1,4 +1,5 @@
 # sys-stats-to-influxdb
+This is a quick python program to inject real-time CPU and GPU temperatures into InfluxDB. The purpose is to have a real-time data going into a time-series database, so I can practice using modern web-based front-ends to visualize real-time data. 
 
 ## OS Dependencies
 
